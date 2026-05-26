@@ -71,16 +71,10 @@ h1 {
   box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);
 }
 
-.addBtn:hover {
-  background-color: #ff1493; 
-  transform: translateY(-1px);
-}
-
 .form-group input:-webkit-autofill,
 .form-group input:-webkit-autofill:hover, 
 .form-group input:-webkit-autofill:focus {
-  -webkit-text-fill-color: #333 !important;
+  -webkit-text-fill-color: #333 !important; 
   -webkit-box-shadow: 0 0 0px 1000px #fff9fa inset !important; 
   transition: background-color 5000s ease-in-out 0s;
 }
-
